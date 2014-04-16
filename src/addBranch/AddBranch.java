@@ -41,12 +41,7 @@ public class AddBranch extends JPanel{
 
     public AddBranch() {
 
-        /*super("LIBRARY MANAGEMENT SYSTEM");
-        setLocationRelativeTo(null);
-        setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
-        setDefaultCloseOperation(EXIT_ON_CLOSE);   
-        setSize(800, 620);
-        setMinimumSize(new Dimension(800, 620));*/
+        
     	
     	infoLabel=DisplayUtil.addInfoLabel("Tool Tip : Add branch section helps to add a new branch " +
     			"to the library system. Every branch will have an unique" +
