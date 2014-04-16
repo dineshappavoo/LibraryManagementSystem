@@ -3,6 +3,7 @@ package addBook;
 /**
  * 
  * author: Dinesh Appavoo
+ * 
  */
 
 import javax.swing.JButton;
@@ -54,13 +55,6 @@ public class AddBook extends JPanel {
 
     public AddBook() {
 
-        /*super("LIBRARY MANAGEMENT SYSTEM");
-        setLocationRelativeTo(null);
-        setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
-        setDefaultCloseOperation(EXIT_ON_CLOSE);   
-        setSize(800, 620);
-        setMinimumSize(new Dimension(800, 620));*/
-    	
     	
     	infoLabel=DisplayUtil.addInfoLabel("Tool Tip : Add book section helps to add a new book " +
     			"to the library system. Every branch will be updated with the no of copies." +
