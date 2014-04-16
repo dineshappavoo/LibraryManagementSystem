@@ -35,7 +35,6 @@ public class MainPage extends JPanel {
                 super(new GridLayout(1,1));
 
                 JTabbedPane tabbedPane = new JTabbedPane();
-                //JComponent panel1 = makeTextPanel("Panel #1");
                 tabbedPane.setBackground(Color.white);
                 tabbedPane.setAlignmentX(LEFT_ALIGNMENT);
                 tabbedPane.setAlignmentY(LEFT_ALIGNMENT);

@@ -4,7 +4,7 @@
 package gui;
 
 /**
- * @author Dany
+ * @author Dinesh Appavoo
  *
  */
 	import javax.swing.JFrame;
