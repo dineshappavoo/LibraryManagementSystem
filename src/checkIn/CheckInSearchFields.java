@@ -1,7 +1,7 @@
 package checkIn;
 
 /**
- *@author Dany
+ *@author Dinesh Appavoo
  */
 public class CheckInSearchFields {
     public String bookId;

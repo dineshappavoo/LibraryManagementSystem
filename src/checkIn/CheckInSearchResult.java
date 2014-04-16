@@ -13,7 +13,7 @@ import java.util.ArrayList;
 import java.util.List;
 
 /**
- *@author Dany
+ *@author Dinesh Appavoo
  */
 public class CheckInSearchResult {
     JTable table = null;
