@@ -1,7 +1,7 @@
 package checkout;
 
 /**
- *@author Dany
+ *@author Dinesh Appavoo
  */
 public class GeneralException extends Exception {
 	GeneralException(String message)

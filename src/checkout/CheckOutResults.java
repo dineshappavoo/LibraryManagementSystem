@@ -12,7 +12,6 @@ import dao.DataConnection;
 public class CheckOutResults {
 
     //    Each BORROWER is permitted a maximum of 3 BOOK_LOANS. If a BORROWER already has 3 BOOK_LOANS, then the checkout
-// (i.e. create new BOOK_LOANS tuple) should fail and return a useful error message.
 //    If the number of BOOK_LOANS for a given book at a branch already equals the No_of_copies (i.e. There are no more book copies
 // available at your library_branch), then the checkout should fail and return a useful error message.
 
